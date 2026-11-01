@@ -10,7 +10,7 @@
 2. Распакуйте архив и загрузите index.html и .nojekyll в корень репозитория. README.md можно загрузить вместе с ними.
 3. Откройте Settings → Pages → Build and deployment → Source → Deploy from a branch.
 4. Выберите main и /(root), затем Save.
-5. Адрес сайта появится в разделе Pages. Для репозитория rb80 обычный адрес — https://3sl2m.github.io/rb80/.
+5. Адрес сайта появится в разделе Pages. Для репозитория rb80 обычный адрес — https://3sl2m.github.io/RB-80/
 
 Для обновления замените index.html новой версией в том же репозитории.
 
